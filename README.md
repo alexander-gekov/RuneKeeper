@@ -1,6 +1,6 @@
 # rune-keeper
 
-> League of Legends Rune Page Manager
+📃 League of Legends Rune Page Manager
 
 #### Build Setup
 
